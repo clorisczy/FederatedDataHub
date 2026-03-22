@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Field visibility — Municipal hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=Fraunces:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <style>
+      .vis-page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 1.25rem 1.5rem 3rem;
+      }
+      .vis-page h1 {
+        font-family: Fraunces, Georgia, serif;
+        font-size: 1.55rem;
+        margin-bottom: 0.35rem;
+      }
+      .vis-intro {
+        color: var(--muted);
+        font-size: 0.9rem;
+        max-width: 62ch;
+        line-height: 1.5;
+        margin-bottom: 1.25rem;
+      }
+      .vis-controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin-bottom: 1.25rem;
+        align-items: flex-end;
+      }
+      .vis-controls label {
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        font-size: 0.78rem;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+      .vis-controls select {
+        font-family: inherit;
+        font-size: 0.95rem;
+        padding: 0.45rem 0.6rem;
+        border-radius: 10px;
+        border: 1px solid var(--border);
+        background: #0d1117;
+        color: var(--text);
+        min-width: 220px;
+      }
+      .column-panel {
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: var(--panel);
+        overflow: hidden;
+      }
+      .column-panel header {
+        padding: 0.65rem 1rem;
+        font-size: 0.8rem;
+        color: var(--muted);
+        border-bottom: 1px solid var(--border);
+        background: linear-gradient(90deg, rgba(61, 156, 240, 0.08), transparent);
+      }
+      .column-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        max-height: min(62vh, 560px);
+        overflow-y: auto;
+      }
+      .column-list li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.75rem;
+        padding: 0.55rem 1rem;
+        border-bottom: 1px solid var(--border);
+        transition:
+          opacity 0.4s ease,
+          filter 0.4s ease,
+          background 0.35s ease;
+      }
+      .column-list li:last-child {
+        border-bottom: none;
+      }
+      .column-list .col-name {
+        font-family: ui-monospace, monospace;
+        font-size: 0.78rem;
+        word-break: break-all;
+      }
+      .column-list .col-tag {
+        flex-shrink: 0;
+        font-size: 0.65rem;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        padding: 0.15rem 0.4rem;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, 0.06);
+        color: var(--muted);
+      }
+      /* Stronger = more visible through the hub for the selected role */
+      .column-list li.lvl-strong {
+        opacity: 1;
+        filter: none;
+        background: rgba(52, 211, 153, 0.06);
+      }
+      .column-list li.lvl-strong .col-tag {
+        color: #6ee7b7;
+        background: rgba(52, 211, 153, 0.12);
+      }
+      .column-list li.lvl-mid {
+        opacity: 0.62;
+        filter: grayscale(0.25);
+        background: transparent;
+      }
+      .column-list li.lvl-mid .col-tag {
+        color: #fcd34d;
+      }
+      .column-list li.lvl-faint {
+        opacity: 0.28;
+        filter: grayscale(0.55);
+        background: transparent;
+      }
+      .column-list li.lvl-faint .col-tag {
+        color: #f87171;
+      }
+      #visStatus {
+        font-size: 0.85rem;
+        color: #f87171;
+        min-height: 1.25em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="vis-page">
+      <nav class="nav-links">
+        <a href="/">Map dashboard</a>
+        <a href="/visibility.html" class="active">Field visibility</a>
+        <a href="/data-admin.html">Data admin & QA</a>
+        <a href="/docs" target="_blank" rel="noopener">API docs</a>
+      </nav>
+      <h1>Column visibility by file &amp; role</h1>
+      <p class="vis-intro">
+        <strong>Step 1 —</strong> Choose a departmental CSV. Every column in that file is listed.
+        <strong>Step 2 —</strong> Choose a viewer role. Columns that are <em>more exposed</em> through the federated hub
+        for that role appear <strong>darker</strong>; suppressed or withheld columns appear <strong>lighter</strong>.
+        Labels show the exact rule: visible, redacted, aggregate_only, or hidden.
+      </p>
+      <div class="vis-controls">
+        <label>
+          Data file
+          <select id="fileSelect" disabled>
+            <option value="">Loading…</option>
+          </select>
+        </label>
+        <label>
+          Viewer role
+          <select id="roleSelect" disabled>
+            <option value="">Loading…</option>
+          </select>
+        </label>
+      </div>
+      <p id="visStatus"></p>
+      <div class="column-panel">
+        <header id="panelHeader">Select a file to list columns.</header>
+        <ul class="column-list" id="columnList"></ul>
+      </div>
+    </div>
+    <script src="/assets/visibility.js"></script>
+  </body>
+</html>

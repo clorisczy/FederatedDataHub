@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Data admin & quality gates — Municipal hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&family=Fraunces:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <div class="admin-page">
+      <nav class="nav-links">
+        <a href="/">Map dashboard</a>
+        <a href="/visibility.html">Field visibility</a>
+        <a href="/data-admin.html" class="active">Data admin & QA</a>
+        <a href="/docs" target="_blank" rel="noopener">API docs</a>
+      </nav>
+      <h1 class="admin-title">Replace departmental CSV extracts</h1>
+      <p class="admin-lead">
+        Uploads are <strong>role-gated</strong>. Each file runs through a <strong>quality gate</strong> before it
+        replaces the on-disk extract. Failed checks return <code>422</code> with errors (and are written to the audit
+        log). Prior files are copied to <code>data/backups/</code>.
+      </p>
+
+      <div class="admin-grid">
+        <section class="admin-card">
+          <h2>Public Health — surveillance CSV</h2>
+          <p class="hint">Requires JWT role <code>dept_public_health</code>. Validates Year range, non-negative counts,
+            crude rate ≤ 100,000 / 100k.</p>
+          <input type="file" id="fileHealth" accept=".csv,text/csv" />
+          <button type="button" class="btn primary" id="btnHealth">Upload & validate</button>
+          <pre class="admin-out" id="outHealth"></pre>
+        </section>
+        <section class="admin-card">
+          <h2>Engineering — sanitary drainage CSV</h2>
+          <p class="hint">Requires <code>dept_engineering</code>. Requires numeric <code>SANDRAINAGEAREAID</code>.</p>
+          <input type="file" id="fileDrainage" accept=".csv,text/csv" />
+          <button type="button" class="btn primary" id="btnDrainage">Upload & validate</button>
+          <pre class="admin-out" id="outDrainage"></pre>
+        </section>
+        <section class="admin-card">
+          <h2>Planning — active applications CSV</h2>
+          <p class="hint">Requires <code>dept_planning</code>. Requires X, Y, PLANNINGCOMMUNITYID, APPLICATION_NO.</p>
+          <input type="file" id="filePlanning" accept=".csv,text/csv" />
+          <button type="button" class="btn primary" id="btnPlanning">Upload & validate</button>
+          <pre class="admin-out" id="outPlanning"></pre>
+        </section>
+      </div>
+      <p class="admin-foot">
+        Get a token from the <a href="/">main dashboard</a> (Identity section), then return here. Try a deliberately bad
+        health file (e.g. crude rate &gt; 100,000) to see rejection + audit trail.
+      </p>
+    </div>
+    <script src="/assets/admin.js"></script>
+  </body>
+</html>

@@ -1,0 +1,691 @@
+Year,Disease,WR Count,WR Rate per 100000,WR 5 Year Average Rate,ON Rate per 100000,ON 5 Year Average Rate
+2015,AIDS,2,0.39,N/A,0.46,N/A
+2015,Amebiasis,38,6.98,N/A,6.15,N/A
+2015,Anaplasmosis,0,0,N/A,0,N/A
+2015,Anthrax,0,0,N/A,0,N/A
+2015,Babesiosis,0,0,N/A,0,N/A
+2015,Blastomycosis,0,0,N/A,0,N/A
+2015,Botulism,0,0,N/A,0.04,N/A
+2015,Brucellosis,0,0,N/A,0.04,N/A
+2015,Campylobacter enteritis,146,26.87,N/A,23.94,N/A
+2015,Chancroid,0,0,N/A,0,N/A
+2015,Chickenpox (Varicella),10,1.75,N/A,2.2,N/A
+2015,Chlamydia,1434,250.95,N/A,289.65,N/A
+2015,Cholera,0,0,N/A,0.01,N/A
+2015,Creutzfeldt-Jakob Disease,1,0.19,N/A,0.08,N/A
+2015,Cryptosporidiosis,14,2.5,N/A,2.87,N/A
+2015,Cyclosporiasis,14,2.59,N/A,1.89,N/A
+2015,Diphtheria,0,0,N/A,0,N/A
+2015,Food Poisoning (all causes),0,0,N/A,0.3,N/A
+2015,Carbapenemase-producing Enterobacteriaceae (CPE),0,0,N/A,0,N/A
+2015,Encephalitis/Meningitis,14,2.5,N/A,2.98,N/A
+2015,Giardiasis,53,9.78,N/A,10.15,N/A
+2015,Gonorrhea,207,36.83,N/A,44.14,N/A
+2015,"Group A Streptococcal disease, invasive",23,4.33,N/A,4.16,N/A
+2015,"Group B Streptococcal disease, neonatal",2,0.34,N/A,0.29,N/A
+2015,"Haemophilus influenzae disease, all types",0,0,N/A,0.07,N/A
+2015,Hantavirus pulmonary syndrome,0,0,N/A,0,N/A
+2015,Hemorrhagic fevers and Lassa fever,0,0,N/A,0,N/A
+2015,Hepatitis A,1,0.19,N/A,0.52,N/A
+2015,Hepatitis B (acute),1,0.19,N/A,0.6,N/A
+2015,Hepatitis B (chronic),60,10.91,N/A,14.61,N/A
+2015,Hepatitis C,119,21.83,N/A,32.07,N/A
+2015,HIV,14,2.62,N/A,5.71,N/A
+2015,Influenza,358,67.94,N/A,68.13,N/A
+2015,Legionellosis,9,1.75,N/A,0.87,N/A
+2015,Leprosy,0,0,N/A,0.04,N/A
+2015,Listeriosis,1,0.2,N/A,0.45,N/A
+2015,Lyme Disease,10,1.88,N/A,3.25,N/A
+2015,Measles,0,0,N/A,0.15,N/A
+2015,Tularemia,0,0,N/A,0.01,N/A
+2015,Typhoid Fever/Paratyphoid Fever,2,0.35,N/A,0.82,N/A
+2015,Verotoxin-producing E. coli,12,2.17,N/A,1.27,N/A
+2015,Yersiniosis,9,1.63,N/A,1.68,N/A
+2015,"Meningococcal disease, invasive",2,0.36,N/A,0.25,N/A
+2015,Mpox,0,0,N/A,0,N/A
+2015,Mumps,0,0,N/A,0.25,N/A
+2015,Ophthalmia Neonatorum,0,0,N/A,0.02,N/A
+2015,Paralytic Shellfish Poisoning,0,0,N/A,0,N/A
+2015,Pertussis,32,5.74,N/A,5.2,N/A
+2015,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,N/A,0.02,N/A
+2015,Powassan Virus,0,0,N/A,0,N/A
+2015,Psittacosis/Ornithosis,0,0,N/A,0,N/A
+2015,Q Fever,1,0.19,N/A,0.1,N/A
+2015,Rabies,0,0,N/A,0,N/A
+2015,Rubella,0,0,N/A,0,N/A
+2015,"Rubella, congenital syndrome",0,0,N/A,0.01,N/A
+2015,Salmonellosis,116,21.22,N/A,21.17,N/A
+2015,Severe acute respiratory syndrome (SARS),0,0,N/A,0,N/A
+2015,Shigellosis,8,1.42,N/A,1.89,N/A
+2015,Smallpox,0,0,N/A,0,N/A
+2015,"Streptococcus Pneumoniae, Invasive ",52,9.96,N/A,7.08,N/A
+2015,Syphilis - Early Congenital,0,0,N/A,0.01,N/A
+2015,Syphilis - Infectious,26,4.63,N/A,8.17,N/A
+2015,Syphilis - Late Latent,23,4.32,N/A,4.22,N/A
+2015,Tetanus,0,0,N/A,0.01,N/A
+2015,Trichinosis,0,0,N/A,0.01,N/A
+2015,Tuberculosis (active),13,2.41,N/A,4.31,N/A
+2015,Tuberculosis (latent),311,56.57,N/A,59.07,N/A
+2015,Syphilis - Other,3,0.57,N/A,0.41,N/A
+2015,West Nile virus (WNv),1,0.19,N/A,0.25,N/A
+2016,AIDS,3,0.56,N/A,0.48,N/A
+2016,Amebiasis,29,5.24,N/A,6.02,N/A
+2016,Anaplasmosis,0,0,N/A,0,N/A
+2016,Anthrax,0,0,N/A,0,N/A
+2016,Babesiosis,0,0,N/A,0,N/A
+2016,Blastomycosis,0,0,N/A,0.01,N/A
+2016,Botulism,0,0,N/A,0,N/A
+2016,Brucellosis,0,0,N/A,0.02,N/A
+2016,Campylobacter enteritis,125,22.56,N/A,24.65,N/A
+2016,Chancroid,0,0,N/A,0,N/A
+2016,Chickenpox (Varicella),12,2.08,N/A,2,N/A
+2016,Chlamydia,1580,269.79,N/A,306.9,N/A
+2016,Cholera,0,0,N/A,0,N/A
+2016,Creutzfeldt-Jakob Disease,0,0,N/A,0.05,N/A
+2016,Cryptosporidiosis,17,2.94,N/A,3.15,N/A
+2016,Cyclosporiasis,8,1.43,N/A,1.99,N/A
+2016,Diphtheria,0,0,N/A,0,N/A
+2016,Food Poisoning (all causes),2,0.35,N/A,0.15,N/A
+2016,Carbapenemase-producing Enterobacteriaceae (CPE),0,0,N/A,0,N/A
+2016,Encephalitis/Meningitis,26,4.6,N/A,3.16,N/A
+2016,Giardiasis,34,6.19,N/A,8.86,N/A
+2016,Gonorrhea,233,40.35,N/A,49.82,N/A
+2016,"Group A Streptococcal disease, invasive",22,4.07,N/A,5.07,N/A
+2016,"Group B Streptococcal disease, neonatal",1,0.17,N/A,0.36,N/A
+2016,"Haemophilus influenzae disease, all types",0,0,N/A,0.03,N/A
+2016,Hantavirus pulmonary syndrome,0,0,N/A,0,N/A
+2016,Hemorrhagic fevers and Lassa fever,0,0,N/A,0,N/A
+2016,Hepatitis A,6,1.01,N/A,0.74,N/A
+2016,Hepatitis B (acute),7,1.25,N/A,0.74,N/A
+2016,Hepatitis B (chronic),72,12.97,N/A,14.52,N/A
+2016,Hepatitis C,119,21.41,N/A,32.19,N/A
+2016,HIV,19,3.44,N/A,6.12,N/A
+2016,Influenza,471,84.74,N/A,102.09,N/A
+2016,Legionellosis,10,1.87,N/A,1,N/A
+2016,Leprosy,1,0.17,N/A,0.04,N/A
+2016,Listeriosis,1,0.19,N/A,0.65,N/A
+2016,Lyme Disease,4,0.7,N/A,2.84,N/A
+2016,Measles,0,0,N/A,0.05,N/A
+2016,Tularemia,0,0,N/A,0,N/A
+2016,Typhoid Fever/Paratyphoid Fever,1,0.19,N/A,0.73,N/A
+2016,Verotoxin-producing E. coli,7,1.24,N/A,1.26,N/A
+2016,Yersiniosis,11,1.98,N/A,1.87,N/A
+2016,"Meningococcal disease, invasive",0,0,N/A,0.2,N/A
+2016,Mpox,0,0,N/A,0,N/A
+2016,Mumps,1,0.17,N/A,0.29,N/A
+2016,Ophthalmia Neonatorum,0,0,N/A,0.03,N/A
+2016,Paralytic Shellfish Poisoning,0,0,N/A,0,N/A
+2016,Pertussis,13,2.26,N/A,3.43,N/A
+2016,Poliomyelitis (polio) and Acute Flaccid Paralysis,1,0.18,N/A,0.05,N/A
+2016,Powassan Virus,0,0,N/A,0,N/A
+2016,Psittacosis/Ornithosis,0,0,N/A,0,N/A
+2016,Q Fever,1,0.2,N/A,0.06,N/A
+2016,Rabies,0,0,N/A,0,N/A
+2016,Rubella,0,0,N/A,0,N/A
+2016,"Rubella, congenital syndrome",0,0,N/A,0,N/A
+2016,Salmonellosis,126,22.63,N/A,22.41,N/A
+2016,Severe acute respiratory syndrome (SARS),0,0,N/A,0,N/A
+2016,Shigellosis,9,1.61,N/A,2.65,N/A
+2016,Smallpox,0,0,N/A,0,N/A
+2016,"Streptococcus Pneumoniae, Invasive ",56,10.45,N/A,7.45,N/A
+2016,Syphilis - Early Congenital,0,0,N/A,0.01,N/A
+2016,Syphilis - Infectious,18,3.26,N/A,10.68,N/A
+2016,Syphilis - Late Latent,18,3.28,N/A,4.92,N/A
+2016,Tetanus,0,0,N/A,0.01,N/A
+2016,Trichinosis,0,0,N/A,0.05,N/A
+2016,Tuberculosis (active),11,2.03,N/A,4.46,N/A
+2016,Tuberculosis (latent),321,57.01,N/A,57.79,N/A
+2016,Syphilis - Other,3,0.54,N/A,0.39,N/A
+2016,West Nile virus (WNv),0,0,N/A,0.39,N/A
+2017,AIDS,2,0.39,N/A,0.46,N/A
+2017,Amebiasis,14,2.54,N/A,5.12,N/A
+2017,Anaplasmosis,0,0,N/A,0,N/A
+2017,Anthrax,0,0,N/A,0,N/A
+2017,Babesiosis,0,0,N/A,0,N/A
+2017,Blastomycosis,1,0.2,N/A,0.03,N/A
+2017,Botulism,0,0,N/A,0,N/A
+2017,Brucellosis,0,0,N/A,0.01,N/A
+2017,Campylobacter enteritis,163,28.92,N/A,24.42,N/A
+2017,Chancroid,0,0,N/A,0,N/A
+2017,Chickenpox (Varicella),5,0.88,N/A,2.01,N/A
+2017,Chlamydia,1760,292.14,N/A,321.2,N/A
+2017,Cholera,0,0,N/A,0.03,N/A
+2017,Creutzfeldt-Jakob Disease,1,0.18,N/A,0.06,N/A
+2017,Cryptosporidiosis,12,2.03,N/A,2.83,N/A
+2017,Cyclosporiasis,7,1.23,N/A,2.08,N/A
+2017,Diphtheria,0,0,N/A,0,N/A
+2017,Food Poisoning (all causes),0,0,N/A,0.41,N/A
+2017,Carbapenemase-producing Enterobacteriaceae (CPE),0,0,N/A,0,N/A
+2017,Encephalitis/Meningitis,22,3.86,N/A,3.25,N/A
+2017,Giardiasis,44,7.83,N/A,10.12,N/A
+2017,Gonorrhea,368,62.68,N/A,56.68,N/A
+2017,"Group A Streptococcal disease, invasive",27,4.82,N/A,6.52,N/A
+2017,"Group B Streptococcal disease, neonatal",4,0.66,N/A,0.38,N/A
+2017,"Haemophilus influenzae disease, all types",0,0,N/A,0.05,N/A
+2017,Hantavirus pulmonary syndrome,0,0,N/A,0,N/A
+2017,Hemorrhagic fevers and Lassa fever,0,0,N/A,0,N/A
+2017,Hepatitis A,3,0.51,N/A,0.91,N/A
+2017,Hepatitis B (acute),3,0.54,N/A,0.7,N/A
+2017,Hepatitis B (chronic),81,14.41,N/A,14.91,N/A
+2017,Hepatitis C,139,24.5,N/A,35.18,N/A
+2017,HIV,12,2.04,N/A,6.03,N/A
+2017,Influenza,377,67.18,N/A,79.12,N/A
+2017,Legionellosis,13,2.39,N/A,1.39,N/A
+2017,Leprosy,0,0,N/A,0.02,N/A
+2017,Listeriosis,0,0,N/A,0.35,N/A
+2017,Lyme Disease,10,1.74,N/A,7.29,N/A
+2017,Measles,0,0,N/A,0.05,N/A
+2017,Tularemia,0,0,N/A,0.01,N/A
+2017,Typhoid Fever/Paratyphoid Fever,6,1.05,N/A,0.99,N/A
+2017,Verotoxin-producing E. coli,6,1.03,N/A,0.92,N/A
+2017,Yersiniosis,15,2.55,N/A,2.03,N/A
+2017,"Meningococcal disease, invasive",1,0.18,N/A,0.21,N/A
+2017,Mpox,0,0,N/A,0,N/A
+2017,Mumps,10,1.69,N/A,1.88,N/A
+2017,Ophthalmia Neonatorum,0,0,N/A,0.03,N/A
+2017,Paralytic Shellfish Poisoning,0,0,N/A,0,N/A
+2017,Pertussis,15,2.54,N/A,4.28,N/A
+2017,Poliomyelitis (polio) and Acute Flaccid Paralysis,1,0.17,N/A,0.03,N/A
+2017,Powassan Virus,0,0,N/A,0,N/A
+2017,Psittacosis/Ornithosis,0,0,N/A,0,N/A
+2017,Q Fever,1,0.17,N/A,0.06,N/A
+2017,Rabies,0,0,N/A,0,N/A
+2017,Rubella,0,0,N/A,0,N/A
+2017,"Rubella, congenital syndrome",0,0,N/A,0,N/A
+2017,Salmonellosis,91,15.9,N/A,19.46,N/A
+2017,Severe acute respiratory syndrome (SARS),0,0,N/A,0,N/A
+2017,Shigellosis,6,1.03,N/A,2.2,N/A
+2017,Smallpox,0,0,N/A,0,N/A
+2017,"Streptococcus Pneumoniae, Invasive ",53,9.64,N/A,7.68,N/A
+2017,Syphilis - Early Congenital,0,0,N/A,0.01,N/A
+2017,Syphilis - Infectious,23,3.91,N/A,11.77,N/A
+2017,Syphilis - Late Latent,17,2.96,N/A,4.81,N/A
+2017,Tetanus,0,0,N/A,0.02,N/A
+2017,Trichinosis,0,0,N/A,0.03,N/A
+2017,Tuberculosis (active),31,5.31,N/A,4.68,N/A
+2017,Tuberculosis (latent),351,61.74,N/A,57.6,N/A
+2017,Syphilis - Other,0,0,N/A,0.61,N/A
+2017,West Nile virus (WNv),3,0.57,N/A,1.1,N/A
+2018,AIDS,1,0.15,N/A,0.52,N/A
+2018,Amebiasis,12,2.06,N/A,3.49,N/A
+2018,Anaplasmosis,0,0,N/A,0,N/A
+2018,Anthrax,0,0,N/A,0,N/A
+2018,Babesiosis,0,0,N/A,0,N/A
+2018,Blastomycosis,1,0.17,N/A,0.43,N/A
+2018,Botulism,0,0,N/A,0.02,N/A
+2018,Brucellosis,0,0,N/A,0.08,N/A
+2018,Campylobacter enteritis,130,22.51,N/A,23.8,N/A
+2018,Chancroid,0,0,N/A,0,N/A
+2018,Chickenpox (Varicella),6,1.01,N/A,2.09,N/A
+2018,Chlamydia,1804,286.84,N/A,335.75,N/A
+2018,Cholera,0,0,N/A,0,N/A
+2018,Creutzfeldt-Jakob Disease,0,0,N/A,0.08,N/A
+2018,Cryptosporidiosis,51,8.51,N/A,5.37,N/A
+2018,Cyclosporiasis,10,1.81,N/A,1.87,N/A
+2018,Diphtheria,0,0,N/A,0,N/A
+2018,Food Poisoning (all causes),2,0.35,N/A,0.35,N/A
+2018,Carbapenemase-producing Enterobacteriaceae (CPE),5,0.88,N/A,1.26,N/A
+2018,Encephalitis/Meningitis,23,4,N/A,3.01,N/A
+2018,Giardiasis,66,11.39,N/A,10.81,N/A
+2018,Gonorrhea,399,65.11,N/A,73.44,N/A
+2018,"Group A Streptococcal disease, invasive",34,5.94,N/A,7.8,N/A
+2018,"Group B Streptococcal disease, neonatal",6,0.98,N/A,0.42,N/A
+2018,"Haemophilus influenzae disease, all types",6,1.06,N/A,1.31,N/A
+2018,Hantavirus pulmonary syndrome,0,0,N/A,0,N/A
+2018,Hemorrhagic fevers and Lassa fever,0,0,N/A,0,N/A
+2018,Hepatitis A,50,8.39,N/A,1.56,N/A
+2018,Hepatitis B (acute),5,0.92,N/A,0.65,N/A
+2018,Hepatitis B (chronic),58,9.91,N/A,14.52,N/A
+2018,Hepatitis C,152,26.08,N/A,37.34,N/A
+2018,HIV,8,1.32,N/A,6.55,N/A
+2018,Influenza,487,85.37,N/A,124.84,N/A
+2018,Legionellosis,31,5.52,N/A,2.21,N/A
+2018,Leprosy,0,0,N/A,0.04,N/A
+2018,Listeriosis,2,0.35,N/A,0.49,N/A
+2018,Lyme Disease,12,2.16,N/A,4.48,N/A
+2018,Measles,0,0,N/A,0.06,N/A
+2018,Tularemia,0,0,N/A,0,N/A
+2018,Typhoid Fever/Paratyphoid Fever,8,1.4,N/A,0.94,N/A
+2018,Verotoxin-producing E. coli,15,2.52,N/A,1.23,N/A
+2018,Yersiniosis,14,2.36,N/A,2.13,N/A
+2018,"Meningococcal disease, invasive",4,0.67,N/A,0.22,N/A
+2018,Mpox,0,0,N/A,0,N/A
+2018,Mumps,0,0,N/A,0.66,N/A
+2018,Ophthalmia Neonatorum,0,0,N/A,0.01,N/A
+2018,Paralytic Shellfish Poisoning,0,0,N/A,0,N/A
+2018,Pertussis,15,2.48,N/A,2.8,N/A
+2018,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,N/A,0.11,N/A
+2018,Powassan Virus,0,0,N/A,0,N/A
+2018,Psittacosis/Ornithosis,0,0,N/A,0,N/A
+2018,Q Fever,0,0,N/A,0.05,N/A
+2018,Rabies,0,0,N/A,0,N/A
+2018,Rubella,0,0,N/A,0,N/A
+2018,"Rubella, congenital syndrome",0,0,N/A,0,N/A
+2018,Salmonellosis,125,20.89,N/A,18.62,N/A
+2018,Severe acute respiratory syndrome (SARS),0,0,N/A,0,N/A
+2018,Shigellosis,9,1.5,N/A,2.25,N/A
+2018,Smallpox,0,0,N/A,0,N/A
+2018,"Streptococcus Pneumoniae, Invasive ",58,10.47,N/A,8.59,N/A
+2018,Syphilis - Early Congenital,0,0,N/A,0.01,N/A
+2018,Syphilis - Infectious,38,6.71,N/A,13.86,N/A
+2018,Syphilis - Late Latent,20,3.58,N/A,5.54,N/A
+2018,Tetanus,0,0,N/A,0,N/A
+2018,Trichinosis,0,0,N/A,0.06,N/A
+2018,Tuberculosis (active),14,2.35,N/A,4.51,N/A
+2018,Tuberculosis (latent),286,48.23,N/A,55.55,N/A
+2018,Syphilis - Other,0,0,N/A,0.76,N/A
+2018,West Nile virus (WNv),5,0.89,N/A,0.94,N/A
+2019,AIDS,0,0,N/A,0.45,N/A
+2019,Amebiasis,16,2.76,N/A,3.41,N/A
+2019,Anaplasmosis,0,0,N/A,0,N/A
+2019,Anthrax,0,0,N/A,0,N/A
+2019,Babesiosis,0,0,N/A,0,N/A
+2019,Blastomycosis,1,0.19,N/A,0.6,N/A
+2019,Botulism,0,0,N/A,0.01,N/A
+2019,Brucellosis,0,0,N/A,0.03,N/A
+2019,Campylobacter enteritis,125,21.24,N/A,21.91,N/A
+2019,Chancroid,0,0,N/A,0,N/A
+2019,Chickenpox (Varicella),23,3.71,N/A,2.83,N/A
+2019,Chlamydia,1956,299.38,N/A,353.63,N/A
+2019,Cholera,1,0.16,N/A,0.02,N/A
+2019,Creutzfeldt-Jakob Disease,0,0,N/A,0.06,N/A
+2019,Cryptosporidiosis,52,8.41,N/A,5.69,N/A
+2019,Cyclosporiasis,26,4.55,N/A,3.05,N/A
+2019,Diphtheria,0,0,N/A,0,N/A
+2019,Food Poisoning (all causes),5,0.95,N/A,0.27,N/A
+2019,Carbapenemase-producing Enterobacteriaceae (CPE),12,2.09,N/A,2.48,N/A
+2019,Encephalitis/Meningitis,22,3.63,N/A,2.87,N/A
+2019,Giardiasis,49,8.2,N/A,8.96,N/A
+2019,Gonorrhea,350,55.26,N/A,77,N/A
+2019,"Group A Streptococcal disease, invasive",37,6.36,N/A,7.37,N/A
+2019,"Group B Streptococcal disease, neonatal",1,0.16,N/A,0.25,N/A
+2019,"Haemophilus influenzae disease, all types",10,1.71,N/A,1.9,N/A
+2019,Hantavirus pulmonary syndrome,0,0,N/A,0,N/A
+2019,Hemorrhagic fevers and Lassa fever,0,0,N/A,0,N/A
+2019,Hepatitis A,14,2.22,N/A,1.39,N/A
+2019,Hepatitis B (acute),6,1.03,N/A,0.69,N/A
+2019,Hepatitis B (chronic),82,13.53,N/A,14.16,N/A
+2019,Hepatitis C,139,23.32,N/A,33.53,N/A
+2019,HIV,12,1.9,N/A,6.76,N/A
+2019,Influenza,353,59.48,N/A,91.41,N/A
+2019,Legionellosis,31,5.38,N/A,2.43,N/A
+2019,Leprosy,0,0,N/A,0.01,N/A
+2019,Listeriosis,6,1,N/A,0.46,N/A
+2019,Lyme Disease,16,2.82,N/A,8.02,N/A
+2019,Measles,0,0,N/A,0.1,N/A
+2019,Tularemia,0,0,N/A,0,N/A
+2019,Typhoid Fever/Paratyphoid Fever,6,0.97,N/A,1.19,N/A
+2019,Verotoxin-producing E. coli,14,2.28,N/A,1.64,N/A
+2019,Yersiniosis,9,1.5,N/A,1.95,N/A
+2019,"Meningococcal disease, invasive",2,0.3,N/A,0.25,N/A
+2019,Mpox,0,0,N/A,0,N/A
+2019,Mumps,1,0.19,N/A,0.54,N/A
+2019,Ophthalmia Neonatorum,0,0,N/A,0,N/A
+2019,Paralytic Shellfish Poisoning,0,0,N/A,0,N/A
+2019,Pertussis,22,3.65,N/A,3.33,N/A
+2019,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,N/A,0.01,N/A
+2019,Powassan Virus,0,0,N/A,0,N/A
+2019,Psittacosis/Ornithosis,0,0,N/A,0,N/A
+2019,Q Fever,0,0,N/A,0.11,N/A
+2019,Rabies,0,0,N/A,0,N/A
+2019,Rubella,0,0,N/A,0,N/A
+2019,"Rubella, congenital syndrome",0,0,N/A,0,N/A
+2019,Salmonellosis,107,17.89,N/A,16.37,N/A
+2019,Severe acute respiratory syndrome (SARS),0,0,N/A,0,N/A
+2019,Shigellosis,11,1.78,N/A,1.96,N/A
+2019,Smallpox,0,0,N/A,0,N/A
+2019,"Streptococcus Pneumoniae, Invasive ",53,9.05,N/A,8.28,N/A
+2019,Syphilis - Early Congenital,0,0,N/A,0.02,N/A
+2019,Syphilis - Infectious,51,8.22,N/A,17.11,N/A
+2019,Syphilis - Late Latent,17,3.01,N/A,6.1,N/A
+2019,Tetanus,0,0,N/A,0.01,N/A
+2019,Trichinosis,0,0,N/A,0.11,N/A
+2019,Tuberculosis (active),19,3.1,N/A,4.98,N/A
+2019,Tuberculosis (latent),320,51.23,N/A,51.75,N/A
+2019,Syphilis - Other,2,0.33,N/A,1.08,N/A
+2019,West Nile virus (WNv),0,0,N/A,0.17,N/A
+2020,AIDS,1,0.14,0.30,0.46,0.47
+2020,Amebiasis,7,1.24,3.91,1.99,4.84
+2020,Anaplasmosis,0,0,0.00,0,0.00
+2020,Anthrax,0,0,0.00,0,0.00
+2020,Babesiosis,0,0,0.00,0,0.00
+2020,Blastomycosis,0,0,0.11,0.37,0.22
+2020,Botulism,0,0,0.00,0,0.01
+2020,Brucellosis,0,0,0.00,0.04,0.04
+2020,Campylobacter enteritis,84,13.73,24.42,13.43,23.75
+2020,Chancroid,0,0,0.00,0,0.00
+2020,Chickenpox (Varicella),5,0.82,1.89,1.24,2.23
+2020,Chlamydia,1425,212.22,279.82,251.34,321.43
+2020,Cholera,0,0,0.03,0.01,0.01
+2020,Creutzfeldt-Jakob Disease,0,0,0.07,0.06,0.07
+2020,Cryptosporidiosis,38,5.91,4.88,3.26,3.98
+2020,Cyclosporiasis,18,2.94,2.32,2.37,2.17
+2020,Diphtheria,0,0,0.00,0,0.00
+2020,Food Poisoning (all causes),0,0,0.33,0.12,0.30
+2020,Carbapenemase-producing Enterobacteriaceae (CPE),14,2.31,0.59,1.78,0.75
+2020,Encephalitis/Meningitis,4,0.73,3.72,1.7,3.05
+2020,Giardiasis,20,3.41,8.68,5.81,9.78
+2020,Gonorrhea,302,45.83,52.05,62.2,60.22
+2020,"Group A Streptococcal disease, invasive",35,5.96,5.10,7.02,6.18
+2020,"Group B Streptococcal disease, neonatal",2,0.32,0.46,0.21,0.34
+2020,"Haemophilus influenzae disease, all types",2,0.35,0.55,0.79,0.67
+2020,Hantavirus pulmonary syndrome,0,0,0.00,0,0.00
+2020,Hemorrhagic fevers and Lassa fever,0,0,0.00,0,0.00
+2020,Hepatitis A,3,0.49,2.47,0.54,1.02
+2020,Hepatitis B (acute),2,0.32,0.78,0.56,0.67
+2020,Hepatitis B (chronic),59,9.84,12.35,8.55,14.54
+2020,Hepatitis C,98,16.09,23.43,22.44,34.06
+2020,HIV,18,2.9,2.26,4.87,6.23
+2020,Influenza,235,38.96,72.94,65.18,93.12
+2020,Legionellosis,26,4.38,3.38,1.96,1.58
+2020,Leprosy,0,0,0.03,0.01,0.03
+2020,Listeriosis,2,0.34,0.35,0.41,0.48
+2020,Lyme Disease,7,1.11,1.86,5.86,5.18
+2020,Measles,0,0,0.00,0,0.08
+2020,Tularemia,0,0,0.00,0.01,0.00
+2020,Typhoid Fever/Paratyphoid Fever,0,0,0.79,0.55,0.93
+2020,Verotoxin-producing E. coli,12,1.87,1.85,0.92,1.26
+2020,Yersiniosis,7,1.11,2.00,1.28,1.93
+2020,"Meningococcal disease, invasive",0,0,0.30,0.15,0.22
+2020,Mpox,0,0,0.00,0,0.00
+2020,Mumps,0,0,0.41,0.37,0.72
+2020,Ophthalmia Neonatorum,0,0,0.00,0.01,0.02
+2020,Paralytic Shellfish Poisoning,0,0,0.00,0,0.00
+2020,Pertussis,3,0.48,3.34,0.79,3.81
+2020,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,0.07,0,0.04
+2020,Powassan Virus,0,0,0.00,0,0.00
+2020,Psittacosis/Ornithosis,0,0,0.00,0,0.00
+2020,Q Fever,0,0,0.11,0.04,0.08
+2020,Rabies,0,0,0.00,0,0.00
+2020,Rubella,0,0,0.00,0,0.00
+2020,"Rubella, congenital syndrome",0,0,0.00,0,0.00
+2020,Salmonellosis,50,8.31,19.71,10.19,19.61
+2020,Severe acute respiratory syndrome (SARS),0,0,0.00,0,0.00
+2020,Shigellosis,6,0.96,1.47,1.15,2.19
+2020,Smallpox,0,0,0.00,0,0.00
+2020,"Streptococcus Pneumoniae, Invasive ",29,5.02,9.91,4.42,7.82
+2020,Syphilis - Early Congenital,0,0,0.00,0.04,0.01
+2020,Syphilis - Infectious,72,11.32,5.35,16.75,12.32
+2020,Syphilis - Late Latent,31,4.93,3.43,4.58,5.12
+2020,Tetanus,1,0.15,0.00,0.01,0.01
+2020,Trichinosis,0,0,0.00,0.04,0.05
+2020,Tuberculosis (active),15,2.38,3.04,4.53,4.59
+2020,Tuberculosis (latent),238,37.18,54.95,29.59,56.35
+2020,Syphilis - Other,2,0.29,0.29,1.04,0.65
+2020,West Nile virus (WNv),0,0,0.33,0.7,0.57
+2021,AIDS,0,0,0.25,0.41,0.47
+2021,Amebiasis,10,1.57,2.77,1.61,4.01
+2021,Anaplasmosis,0,0,0.00,0,0.00
+2021,Anthrax,0,0,0.00,0,0.00
+2021,Babesiosis,0,0,0.00,0,0.00
+2021,Blastomycosis,0,0,0.11,0.71,0.29
+2021,Botulism,0,0,0.00,0,0.01
+2021,Brucellosis,0,0,0.00,0.03,0.04
+2021,Campylobacter enteritis,89,14.35,21.79,14.77,21.64
+2021,Chancroid,0,0,0.00,0,0.00
+2021,Chickenpox (Varicella),8,1.3,1.70,1.59,2.03
+2021,Chlamydia,1325,197.99,272.07,241.23,313.76
+2021,Cholera,0,0,0.03,0,0.01
+2021,Creutzfeldt-Jakob Disease,0,0,0.04,0.05,0.06
+2021,Cryptosporidiosis,39,6.12,5.56,3.51,4.06
+2021,Cyclosporiasis,0,0,2.39,0.64,2.27
+2021,Diphtheria,0,0,0.00,0,0.00
+2021,Food Poisoning (all causes),9,1.38,0.33,0.11,0.26
+2021,Carbapenemase-producing Enterobacteriaceae (CPE),15,2.5,1.06,1.78,1.10
+2021,Encephalitis/Meningitis,9,1.42,3.37,1.41,2.80
+2021,Giardiasis,44,7.36,7.40,5.3,8.91
+2021,Gonorrhea,257,39.56,53.84,66.96,63.83
+2021,"Group A Streptococcal disease, invasive",32,5.18,5.43,5.38,6.75
+2021,"Group B Streptococcal disease, neonatal",5,0.79,0.46,0.33,0.32
+2021,"Haemophilus influenzae disease, all types",1,0.15,0.62,0.51,0.82
+2021,Hantavirus pulmonary syndrome,0,0,0.00,0,0.00
+2021,Hemorrhagic fevers and Lassa fever,0,0,0.00,0,0.00
+2021,Hepatitis A,1,0.14,2.53,0.35,1.03
+2021,Hepatitis B (acute),3,0.54,0.81,0.51,0.67
+2021,Hepatitis B (chronic),58,9.16,12.13,8.83,13.33
+2021,Hepatitis C,136,21.87,22.28,23.89,32.13
+2021,HIV,12,1.86,2.32,4.46,6.07
+2021,Influenza,0,0,67.15,0.59,92.53
+2021,Legionellosis,40,6.79,3.91,2.42,1.80
+2021,Leprosy,0,0,0.03,0.01,0.02
+2021,Listeriosis,2,0.3,0.38,0.44,0.47
+2021,Lyme Disease,13,2.31,1.71,11.59,5.70
+2021,Measles,0,0,0.00,0,0.05
+2021,Tularemia,0,0,0.00,0.01,0.00
+2021,Typhoid Fever/Paratyphoid Fever,1,0.14,0.72,0.31,0.88
+2021,Verotoxin-producing E. coli,6,1.02,1.79,1.16,1.19
+2021,Yersiniosis,9,1.42,1.90,1.49,1.85
+2021,"Meningococcal disease, invasive",0,0,0.23,0.07,0.21
+2021,Mpox,0,0,0.00,0,0.00
+2021,Mumps,0,0,0.41,0.04,0.75
+2021,Ophthalmia Neonatorum,0,0,0.00,0.01,0.01
+2021,Paralytic Shellfish Poisoning,0,0,0.00,0,0.00
+2021,Pertussis,0,0,2.28,0.11,2.92
+2021,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,0.07,0.01,0.04
+2021,Powassan Virus,0,0,0.00,0,0.00
+2021,Psittacosis/Ornithosis,0,0,0.00,0,0.00
+2021,Q Fever,0,0,0.07,0.05,0.06
+2021,Rabies,0,0,0.00,0,0.00
+2021,Rubella,0,0,0.00,0,0.00
+2021,"Rubella, congenital syndrome",0,0,0.00,0,0.00
+2021,Salmonellosis,47,7.81,17.13,8,17.41
+2021,Severe acute respiratory syndrome (SARS),0,0,0.00,0,0.00
+2021,Shigellosis,4,0.65,1.38,0.87,2.04
+2021,Smallpox,0,0,0.00,0,0.00
+2021,"Streptococcus Pneumoniae, Invasive ",46,7.73,8.92,4.22,7.28
+2021,Syphilis - Early Congenital,0,0,0.00,0.06,0.02
+2021,Syphilis - Infectious,141,21.9,6.68,20.76,14.04
+2021,Syphilis - Late Latent,36,5.74,3.55,7.05,5.19
+2021,Tetanus,0,0,0.03,0.02,0.01
+2021,Trichinosis,0,0,0.00,0.01,0.06
+2021,Tuberculosis (active),17,2.52,3.03,4.68,4.63
+2021,Tuberculosis (latent),264,41.27,51.08,29.79,50.46
+2021,Syphilis - Other,4,0.6,0.23,1.4,0.77
+2021,West Nile virus (WNv),2,0.38,0.29,0.17,0.66
+2022,AIDS,3,0.49,0.14,0.5,0.46
+2022,Amebiasis,19,2.97,2.03,2.29,3.12
+2022,Anaplasmosis,0,0,0.00,0,0.00
+2022,Anthrax,0,0,0.00,0,0.00
+2022,Babesiosis,0,0,0.00,0,0.00
+2022,Blastomycosis,0,0,0.11,0.69,0.43
+2022,Botulism,0,0,0.00,0.02,0.01
+2022,Brucellosis,0,0,0.00,0.03,0.04
+2022,Campylobacter enteritis,97,15.72,20.15,14.02,19.67
+2022,Chancroid,0,0,0.00,0,0.00
+2022,Chickenpox (Varicella),19,2.86,1.54,2.51,1.95
+2022,Chlamydia,1387,191.93,257.71,256.61,300.63
+2022,Cholera,0,0,0.03,0.02,0.01
+2022,Creutzfeldt-Jakob Disease,0,0,0.04,0.04,0.06
+2022,Cryptosporidiosis,30,4.54,6.19,3.07,4.13
+2022,Cyclosporiasis,16,2.71,2.11,3.29,2.00
+2022,Diphtheria,0,0,0.00,0,0.00
+2022,Food Poisoning (all causes),3,0.49,0.54,0.35,0.25
+2022,Carbapenemase-producing Enterobacteriaceae (CPE),26,4.13,1.56,3.34,1.46
+2022,Encephalitis/Meningitis,9,1.35,2.73,1.79,2.45
+2022,Giardiasis,1,0.14,7.64,5.44,8.20
+2022,Gonorrhea,267,38.2,53.69,77.66,67.26
+2022,"Group A Streptococcal disease, invasive",25,4.06,5.65,5.83,6.82
+2022,"Group B Streptococcal disease, neonatal",2,0.31,0.58,0.23,0.32
+2022,"Haemophilus influenzae disease, all types",9,1.5,0.65,1.51,0.91
+2022,Hantavirus pulmonary syndrome,0,0,0.00,0,0.00
+2022,Hemorrhagic fevers and Lassa fever,0,0,0.00,0.01,0.00
+2022,Hepatitis A,5,0.73,2.35,0.62,0.95
+2022,Hepatitis B (acute),2,0.32,0.67,0.68,0.62
+2022,Hepatitis B (chronic),59,9.15,11.37,9.37,12.19
+2022,Hepatitis C,120,19.14,22.37,21.6,30.48
+2022,HIV,23,3.33,2.01,6.02,5.74
+2022,Influenza,507,79.05,50.20,118.68,72.23
+2022,Legionellosis,18,3.14,4.89,2.17,2.08
+2022,Leprosy,0,0,0.00,0.01,0.02
+2022,Listeriosis,1,0.19,0.40,0.43,0.43
+2022,Lyme Disease,24,3.88,2.03,9.85,7.45
+2022,Measles,0,0,0.00,0.01,0.04
+2022,Tularemia,0,0,0.00,0,0.00
+2022,Typhoid Fever/Paratyphoid Fever,5,0.66,0.71,1.31,0.80
+2022,Verotoxin-producing E. coli,19,2.79,1.74,1.35,1.17
+2022,Yersiniosis,3,0.44,1.79,1.39,1.78
+2022,"Meningococcal disease, invasive",0,0,0.23,0.17,0.18
+2022,Mpox,4,0.59,0.00,4.25,0.00
+2022,Mumps,4,0.58,0.38,0.17,0.70
+2022,Ophthalmia Neonatorum,0,0,0.00,0.04,0.01
+2022,Paralytic Shellfish Poisoning,0,0,0.00,0,0.00
+2022,Pertussis,24,3.64,1.83,1.13,2.26
+2022,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,0.03,0.01,0.03
+2022,Powassan Virus,0,0,0.00,0,0.00
+2022,Psittacosis/Ornithosis,0,0,0.00,0,0.00
+2022,Q Fever,0,0,0.03,0.07,0.06
+2022,Rabies,0,0,0.00,0,0.00
+2022,Rubella,0,0,0.00,0,0.00
+2022,"Rubella, congenital syndrome",0,0,0.00,0,0.00
+2022,Salmonellosis,95,14.75,14.16,11.78,14.53
+2022,Severe acute respiratory syndrome (SARS),0,0,0.00,0,0.00
+2022,Shigellosis,3,0.47,1.18,1.68,1.69
+2022,Smallpox,0,0,0.00,0,0.00
+2022,"Streptococcus Pneumoniae, Invasive ",68,11.26,8.38,8.05,6.64
+2022,Syphilis - Early Congenital,1,0.16,0.00,0.17,0.03
+2022,Syphilis - Infectious,120,18.31,10.41,24.03,16.05
+2022,Syphilis - Late Latent,78,11.88,4.04,10.64,5.61
+2022,Tetanus,0,0,0.03,0.01,0.01
+2022,Trichinosis,0,0,0.00,0.02,0.05
+2022,Tuberculosis (active),23,3.52,3.13,4.93,4.68
+2022,Tuberculosis (latent),383,56.45,47.93,37.03,44.86
+2022,Syphilis - Other,4,0.68,0.24,1.63,0.98
+2022,West Nile virus (WNv),1,0.19,0.37,0.19,0.62
+2023,AIDS,1,0.16,0.16,0.47,0.47
+2023,Amebiasis,9,1.25,2.12,2.1,2.56
+2023,Anaplasmosis,0,0,0.00,0.22,0.00
+2023,Anthrax,0,0,0.00,0,0.00
+2023,Babesiosis,1,0.13,0.00,0.1,0.00
+2023,Blastomycosis,0,0,0.07,0.79,0.56
+2023,Botulism,0,0,0.00,0.02,0.01
+2023,Brucellosis,0,0,0.00,0.03,0.04
+2023,Campylobacter enteritis,103,15.54,17.51,15.92,17.59
+2023,Chancroid,0,0,0.00,0,0.00
+2023,Chickenpox (Varicella),41,5.61,1.94,3.98,2.05
+2023,Chlamydia,1550,196.21,237.67,286.36,287.71
+2023,Cholera,0,0,0.03,0,0.01
+2023,Creutzfeldt-Jakob Disease,1,0.17,0.00,0.07,0.06
+2023,Cryptosporidiosis,36,4.88,6.70,3.48,4.18
+2023,Cyclosporiasis,34,5.62,2.40,4.26,2.25
+2023,Diphtheria,0,0,0.00,0,0.00
+2023,Food Poisoning (all causes),2,0.29,0.63,0.36,0.24
+2023,Carbapenemase-producing Enterobacteriaceae (CPE),38,5.75,2.38,4.86,2.13
+2023,Encephalitis/Meningitis,17,2.5,2.23,2.23,2.16
+2023,Giardiasis,24,3.82,6.10,6.87,7.26
+2023,Gonorrhea,310,41.74,48.79,89.27,71.45
+2023,"Group A Streptococcal disease, invasive",73,11.37,5.50,12.46,6.68
+2023,"Group B Streptococcal disease, neonatal",1,0.16,0.51,0.34,0.29
+2023,"Haemophilus influenzae disease, all types",12,1.81,0.95,2.09,1.21
+2023,Hantavirus pulmonary syndrome,0,0,0.00,0,0.00
+2023,Hemorrhagic fevers and Lassa fever,0,0,0.00,0,0.00
+2023,Hepatitis A,12,1.59,2.39,1.01,0.89
+2023,Hepatitis B (acute),0,0,0.63,0.62,0.62
+2023,Hepatitis B (chronic),79,11.02,10.32,12.14,11.08
+2023,Hepatitis C,112,17.03,21.30,21.8,27.76
+2023,HIV,43,6.24,2.26,9.1,5.73
+2023,Influenza,383,58.01,52.57,66.53,80.14
+2023,Legionellosis,34,5.63,5.04,1.97,2.24
+2023,Leprosy,0,0,0.00,0,0.02
+2023,Listeriosis,3,0.46,0.44,0.39,0.44
+2023,Lyme Disease,33,4.96,2.46,12.03,7.96
+2023,Measles,0,0,0.00,0.05,0.03
+2023,Tularemia,0,0,0.00,0,0.00
+2023,Typhoid Fever/Paratyphoid Fever,12,1.64,0.63,1.49,0.86
+2023,Verotoxin-producing E. coli,11,1.5,2.10,0.81,1.26
+2023,Yersiniosis,11,1.56,1.37,1.48,1.65
+2023,"Meningococcal disease, invasive",1,0.16,0.19,0.19,0.17
+2023,Mpox,0,0,0.12,0.22,0.85
+2023,Mumps,1,0.13,0.15,0.21,0.35
+2023,Ophthalmia Neonatorum,0,0,0.00,0.01,0.01
+2023,Paralytic Shellfish Poisoning,0,0,0.00,0,0.00
+2023,Pertussis,12,1.83,2.05,2.59,1.63
+2023,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,0.00,0.01,0.03
+2023,Powassan Virus,0,0,0.00,0,0.00
+2023,Psittacosis/Ornithosis,0,0,0.00,0,0.00
+2023,Q Fever,1,0.19,0.00,0.08,0.06
+2023,Rabies,0,0,0.00,0,0.00
+2023,Rubella,0,0,0.00,0,0.00
+2023,"Rubella, congenital syndrome",0,0,0.00,0,0.00
+2023,Salmonellosis,87,13.33,13.93,15.33,12.99
+2023,Severe acute respiratory syndrome (SARS),0,0,0.00,0,0.00
+2023,Shigellosis,8,1.22,1.07,1.71,1.58
+2023,Smallpox,0,0,0.00,0,0.00
+2023,"Streptococcus Pneumoniae, Invasive ",67,10.35,8.70,9.63,6.71
+2023,Syphilis - Early Congenital,0,0,0.03,0.12,0.06
+2023,Syphilis - Infectious,95,13.15,13.29,21.2,18.50
+2023,Syphilis - Late Latent,84,12.03,5.83,13.46,6.78
+2023,Tetanus,0,0,0.03,0.01,0.01
+2023,Trichinosis,0,0,0.00,0,0.05
+2023,Tuberculosis (active),17,2.21,2.77,5.43,4.73
+2023,Tuberculosis (latent),565,74.4,46.87,47.11,40.74
+2023,Syphilis - Other,5,0.82,0.38,2.03,1.18
+2023,West Nile virus (WNv),0,0,0.29,0.38,0.43
+2024,AIDS,2,0.31,0.16,0.29,0.46
+2024,Amebiasis,4,0.65,1.96,1.79,2.28
+2024,Anaplasmosis,2,0.3,0.00,0.93,0.04
+2024,Anthrax,0,0,0.00,0,0.00
+2024,Babesiosis,0,0,0.03,0.02,0.02
+2024,Blastomycosis,0,0,0.04,0.72,0.64
+2024,Botulism,0,0,0.00,0.01,0.01
+2024,Brucellosis,0,0,0.00,0.07,0.03
+2024,Campylobacter enteritis,70,10.34,16.12,15.3,16.01
+2024,Chancroid,0,0,0.00,0,0.00
+2024,Chickenpox (Varicella),61,7.21,2.86,5.01,2.43
+2024,Chlamydia,1356,151.53,219.55,252.35,277.84
+2024,Cholera,1,0.16,0.03,0.01,0.01
+2024,Creutzfeldt-Jakob Disease,0,0,0.03,0.03,0.06
+2024,Cryptosporidiosis,63,8.39,5.97,5.29,3.80
+2024,Cyclosporiasis,18,2.48,3.16,2.63,2.72
+2024,Diphtheria,0,0,0.00,0.01,0.00
+2024,Food Poisoning (all causes),3,0.49,0.62,0.24,0.24
+2024,Carbapenemase-producing Enterobacteriaceae (CPE),40,5.94,3.36,6.02,2.85
+2024,Encephalitis/Meningitis,15,2.2,1.93,1.89,2.00
+2024,Giardiasis,30,4.4,4.59,8.32,6.48
+2024,Gonorrhea,279,33.9,44.12,81.39,74.62
+2024,"Group A Streptococcal disease, invasive",75,11.04,6.58,10.93,7.61
+2024,"Group B Streptococcal disease, neonatal",1,0.15,0.35,0.24,0.27
+2024,"Haemophilus influenzae disease, all types",16,2.35,1.10,2.01,1.36
+2024,Hantavirus pulmonary syndrome,0,0,0.00,0,0.00
+2024,Hemorrhagic fevers and Lassa fever,0,0,0.00,0.02,0.00
+2024,Hepatitis A,7,0.79,1.03,0.8,0.78
+2024,Hepatitis B (acute),2,0.26,0.44,0.64,0.61
+2024,Hepatitis B (chronic),95,12.84,10.54,12.53,10.61
+2024,Hepatitis C,119,17.16,19.49,19.58,24.65
+2024,HIV,34,4.53,3.25,7.48,6.24
+2024,Influenza,464,67.94,47.10,111.63,68.48
+2024,Legionellosis,22,3.58,5.06,2.12,2.19
+2024,Leprosy,0,0,0.00,0,0.01
+2024,Listeriosis,2,0.3,0.46,0.59,0.42
+2024,Lyme Disease,31,4.64,3.02,14.6,9.47
+2024,Measles,0,0,0.00,0.25,0.03
+2024,Tularemia,0,0,0.00,0,0.00
+2024,Typhoid Fever/Paratyphoid Fever,16,2,0.68,1.31,0.97
+2024,Verotoxin-producing E. coli,13,1.75,1.89,1.03,1.18
+2024,Yersiniosis,4,0.6,1.21,1.52,1.52
+2024,"Meningococcal disease, invasive",1,0.15,0.09,0.23,0.17
+2024,Mpox,2,0.21,0.12,1.74,0.89
+2024,Mumps,4,0.54,0.18,0.65,0.26
+2024,Ophthalmia Neonatorum,0,0,0.00,0.02,0.01
+2024,Paralytic Shellfish Poisoning,0,0,0.00,0,0.00
+2024,Pertussis,30,4.36,1.92,11.77,1.59
+2024,Poliomyelitis (polio) and Acute Flaccid Paralysis,0,0,0.00,0.04,0.01
+2024,Powassan Virus,0,0,0.00,0,0.00
+2024,Psittacosis/Ornithosis,0,0,0.00,0,0.00
+2024,Q Fever,0,0,0.04,0.07,0.07
+2024,Rabies,0,0,0.00,0.01,0.00
+2024,Rubella,0,0,0.00,0,0.00
+2024,"Rubella, congenital syndrome",0,0,0.00,0,0.00
+2024,Salmonellosis,110,15.95,12.42,16.36,12.33
+2024,Severe acute respiratory syndrome (SARS),0,0,0.00,0,0.00
+2024,Shigellosis,7,1.06,1.02,1.72,1.48
+2024,Smallpox,0,0,0.00,0,0.00
+2024,"Streptococcus Pneumoniae, Invasive ",75,11.15,8.68,10.87,6.92
+2024,Syphilis - Early Congenital,0,0,0.03,0.17,0.08
+2024,Syphilis - Infectious,70,8.66,14.58,17.9,19.97
+2024,Syphilis - Late Latent,66,8.59,7.52,13.02,8.37
+2024,Tetanus,0,0,0.03,0.02,0.01
+2024,Trichinosis,0,0,0.00,0.01,0.04
+2024,Tuberculosis (active),23,2.77,2.75,5.89,4.91
+2024,Tuberculosis (latent),637,76.31,52.11,53.77,39.05
+2024,Syphilis - Other,1,0.11,0.54,2.52,1.43
+2024,West Nile virus (WNv),5,0.75,0.11,0.52,0.32
