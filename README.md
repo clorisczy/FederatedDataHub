@@ -1,10 +1,6 @@
 # Municipal Federated Data Hub — Demo
 
-## Team "Champion"
-
-## Contributors 
-- Zeyi Cai
-- Desen Sun
+## Contributor: Team "Champion"
   
 This repository is a **hackathon prototype** of a federated municipal data exchange: a single gateway and UI sit on top of **three departmental data sources** (implemented here as CSV “legacy exports”), not a monolithic warehouse of sensitive records.
 
